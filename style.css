@@ -2,3 +2,13 @@
   height: 5em;
   width: auto;
 }
+
+.boss-box {
+  border: 3px solid black;
+  padding: 2em 6em;
+  user-select: none;
+}
+
+.boss-box:hover {
+  cursor: pointer;
+}
